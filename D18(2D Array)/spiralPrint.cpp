@@ -56,6 +56,7 @@ int main()
 
         cout << endl;
     }
+
     int row = arr.size();
     int col = arr[0].size();
     cout << "Spiral Print" << endl;
