@@ -1,4 +1,4 @@
-// Compliment of base 10 integer
+ // Compliment of base 10 integer
 
 #include <iostream>
 #include <math.h>
